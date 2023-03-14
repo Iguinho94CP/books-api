@@ -9,23 +9,19 @@ Flask_SQLAlchemy
 ## How to use
 Clone this repository:
 
-bash
-Copy code
+
 git clone https://github.com/example/flask-books-api.git
 Navigate to the cloned repository:
 
-bash
-Copy code
+
 cd flask-books-api
 Install the dependencies:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 Run the Flask application:
 
-bash
-Copy code
+
 flask run
 The API will be available at http://localhost:5000.
 
